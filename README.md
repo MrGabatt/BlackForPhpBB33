@@ -22,7 +22,7 @@ To install a color variation, you must first install the Black style.
 
 
 ## Download
-https://github.com/MrGabatt/BlackForPhpbb32/archive/master.zip
+https://github.com/MrGabatt/BlackForPhpbb33/archive/master.zip
 
 
 ## License
